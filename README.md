@@ -7,4 +7,4 @@ Repositorio da aula de PWII
 ### Curso de Desenvolvimento de Sistemas AMS
 
 ---
-Desenvolvedor: Victor Rocha SIlva
+Desenvolvedor: Guilherme Bosso
